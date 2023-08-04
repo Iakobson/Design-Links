@@ -1,5 +1,9 @@
 # Design-Links
 
+**[The W3C Markup Validation Service](https://validator.w3.org/)** 
+
+
+
 
 ### Безкоштовні фотостоки для ваших проєктів
 
@@ -32,8 +36,11 @@
   + https://www.everypixel.com/free
   + _алгоритм, що працює на нейромережі_
 
+- - -
 
+### Choose an article
 
+  + [Фундаментальные принципы дизайна темной темы](https://ux.pub/editorial/fundamientalnyie-printsipy-dizaina-tiemnoi-tiemy-385p)
 
 
 
