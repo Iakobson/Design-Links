@@ -43,8 +43,11 @@
 
 ### Choose an article
 
+  + [Короткий огляд CSS методологій, які теж потрібно знати](https://medium.com/@jstify.community/css-methodologies-a255a43c794d)
   + [Фундаментальные принципы дизайна темной темы](https://ux.pub/editorial/fundamientalnyie-printsipy-dizaina-tiemnoi-tiemy-385p)
   + [Jank-free page loading with media aspect ratios](https://blog.logrocket.com/jank-free-page-loading-with-media-aspect-ratios/)
+  + [що таке доступність у веб розробці](https://medium.com/@jstify.community/accessibility-in-web-development-20ad9eca9809)
+  + [Sass (Syntactically Awesome Stylesheets) — CSS препроцесор](https://medium.com/@jstify.community/sass-cd4202b99fa9)
 
 
 - - -
